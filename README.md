@@ -40,6 +40,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Palak Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=developer22-university&show_icons=true&hide=stars&count_private=true" />
+  <img align="left" alt="Palak Sharma Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer22-university">
 </details>
 
 
