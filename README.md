@@ -3,6 +3,8 @@
 - ⚡ I like to do painting and debating.
 - 🔭 I have passion to leverage AI, to build something useful for the society.
 -  👯 I aim to be a part of Technically Strong Organisation.
+ 
+##### Member: @publicLab @ifme @Fossasia
 ### Connect with me:
 <!--
 <a href="myblog/protfolio website address"><img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
