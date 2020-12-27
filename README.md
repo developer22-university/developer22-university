@@ -3,6 +3,7 @@
 - 🔭 I’m currently exploring the fields of Machine Learning,Deep Learning and Artificial Intelligence. 
 - 🔭 I like to develop full stack applications web or android.
 - ⚡ I like to do painting and debating.
+-  Ask me about Web and App Development
 - 🔭 I have passion to leverage AI, to build something useful for the society.
 -  👯 I aim to be a part of Technically Strong Organisation.
  
