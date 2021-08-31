@@ -21,7 +21,7 @@
 <img align="left" alt="Numpy" width="59px" src="https://user-images.githubusercontent.com/42070734/92986814-25f43d00-f4db-11ea-9ffa-5d1715c45ddb.png" />
 <img align="left" alt="Pandas" width="59px" src="https://user-images.githubusercontent.com/42070734/92986827-2db3e180-f4db-11ea-9d85-6885931c2e09.png" />
 <img align="left" alt="keras" width="59px" src="https://user-images.githubusercontent.com/42070734/92986820-2ab8f100-f4db-11ea-9b97-a6ff4463a0f1.png" />
-
+<img align="left" alt="ReactJs" width="59px" src="https://user-images.githubusercontent.com/42070734/92986820-2ab8f100-f4db-11ea-9b97-a6ff4463a0f1.png" />
 <img align="left" alt="sklearn" width="57px" src="https://user-images.githubusercontent.com/42070734/92986821-2b518780-f4db-11ea-830b-7be4a3b57a53.png" />
 <img align="left" alt="macos" width="34px" src="https://user-images.githubusercontent.com/42070734/92986824-2c82b480-f4db-11ea-8c17-825757b69c56.png" />
 <img align="left" alt="Windows" width="28px" src="https://user-images.githubusercontent.com/42070734/92986822-2b518780-f4db-11ea-8d92-f49e4f983f76.png" />
