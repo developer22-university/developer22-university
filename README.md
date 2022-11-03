@@ -1,5 +1,5 @@
 ### Hey there!!
-- I m working on my skills like react and flutter.
+- I m working on my skills like react and javascript.
 - 🔭 I’m currently exploring the fields of Machine Learning,Deep Learning and Artificial Intelligence. 
 - 🔭 I like to develop full stack applications web or android.
 
