@@ -31,7 +31,7 @@
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 
-### Medium Articles Authored by me: [click here](https://medium.com/@magicreal100)
+### Medium Articles Authored by me: [click here](https://medium.com/@CrissCross21))
 <!-- 
 - [Implementation of Locally Weighted Linear Regression](https://www.geeksforgeeks.org/implementation-of-locally-weighted-linear-regression/)
 - [Compute Natural Base-10 and Base-2 logarithm using Numpy](https://www.geeksforgeeks.org/how-to-compute-natural-base-10-and-base-2-logarithm-for-all-elements-in-a-given-array-using-numpy/)
